@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358207369988",
+    "firebase_url": "https://tourneyapp-ba91a.firebaseio.com",
+    "project_id": "tourneyapp-ba91a",
+    "storage_bucket": "tourneyapp-ba91a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358207369988:android:864e484e0264cf9393d651",
+        "android_client_info": {
+          "package_name": "edu.uga.cs.TourneyAssistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358207369988-dnt62987dsc0j5igf1d5u41e3iougfsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.uga.cs.TourneyAssistant",
+            "certificate_hash": "f20edd41c3cc2826ec49cfe69f2dfd1dda745366"
+          }
+        },
+        {
+          "client_id": "358207369988-u0sk0fetpce36486nnlol30fgv87emu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfb4k5WJzDJkvd2x-SaO7SVkE5Mta1Ub8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358207369988-u0sk0fetpce36486nnlol30fgv87emu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

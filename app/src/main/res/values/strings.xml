@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tourney Assistant</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="numTeam_prompt">How many teams?</string>
+    <string name="team1_prompt">Team 1</string>
+    <string name="team2_prompt">Team 2</string>
+    <string name="help">Here is a quick tutorial and description of our app. TourneyAssistant is for Tournament Directors and Team Captains. These 2 parties can use Tourney Assistant to communicate and share schedule information in 1 place.</string>
+    <string name="add">This button is only visible to TDs. They can use this to create a new tournament.</string>
+    <string name="schedule">This button show a list of games for the tournament you are currently viewing.</string>
+    <string name="support">If you have any bugs or other concerns send them to jingley22@gmail.com . Otherwise, thanks for using the app!</string>
+    <string name="profile">This button shows you your profile where you can delete your account.</string>
+</resources>
